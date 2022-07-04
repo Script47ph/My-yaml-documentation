@@ -1,0 +1,8 @@
+# Gunakan Asterisk untuk memanggil variabel
+# Gunakan & untuk membuat variabel
+点: &点
+  IP: 3.8
+  IPK: 3.45
+  学期: 7
+
+川村: *点

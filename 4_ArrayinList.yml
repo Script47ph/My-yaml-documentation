@@ -1,0 +1,22 @@
+[
+  {
+    名前: Riki,
+    苗字: Setiawan,
+    年: 22
+  },
+  {
+    名前: Fulan,
+    苗字: Fulana,
+    年: 99
+  }
+]
+
+---
+
+- 名前: Riki
+  苗字: Setiawan
+  年: 22
+
+- 名前: Fulan
+  苗字: Fulana
+  年: 99

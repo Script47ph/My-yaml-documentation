@@ -1,0 +1,18 @@
+# Associative Array Key: Value
+名前: Riki
+苗字: Setiawan
+年: 22
+体の高さ: 170
+大学: True
+
+--- # Pemisah antar data
+
+{
+  名前: Riki,
+  苗字: Setiawan,
+  年: 22,
+  体の高さ: 170,
+  大学: True
+}
+
+... # opsional akhir dari data

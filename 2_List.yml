@@ -1,0 +1,13 @@
+# List - value
+- 1
+- 2
+- 3
+- 金無し
+- 小林
+- False # Ini boolean
+
+---
+
+[1, 2, 3, 金無し, 小林, False]
+
+...
